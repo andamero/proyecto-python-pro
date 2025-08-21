@@ -1,0 +1,8 @@
+# Librería externa necesaria para el selector de fechas en Tkinter
+tkcalendar>=1.6.1
+
+# Para instalar las dependencias del proyecto:
+# 1. Abre la terminal o consola.
+# 2. Navega a la carpeta donde está este archivo.
+# 3. Ejecuta:
+#    pip install -r requirements.txt
